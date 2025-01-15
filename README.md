@@ -10,3 +10,5 @@
 ![Desktop Screenshot 2025 01 15 - 21 03 36 30](https://github.com/user-attachments/assets/cca37216-3080-44be-86f3-4687657daf07)
 ![Desktop Screenshot 2025 01 15 - 21 03 45 80](https://github.com/user-attachments/assets/0ea3d515-87fe-452e-a592-d97e570a33a6)
 ### 1. Что такое Bootstrap простыми словами?
+- Bootstrap — это интерфейсный фреймворк HTML , CSS и JavaScript, который содержит набор готовых блоков, классов и
+- внутренних функций для быстрой и удобной разработки. Для его использования необходимы базовые знания языка разметки HTML , каскадных таблиц стилей CSS и языка программирования JavaScript.
