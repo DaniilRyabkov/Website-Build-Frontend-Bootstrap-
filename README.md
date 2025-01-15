@@ -12,3 +12,5 @@
 ### 1. What is Bootstrap in simple words?
 - Bootstrap is a front-end HTML, CSS and JavaScript framework that contains a set of ready-made blocks,
 -  classes and internal functions for fast and easy development. To use it, you need basic knowledge of the HTML markup language, CSS cascading style sheets, and the JavaScript programming language.
+-  [Ссылка на Bootstrap](https://getbootstrap.com/)
+-  ![hrjjagqas_klsst007-d4g8el0m](https://github.com/user-attachments/assets/4330d13c-e267-44ea-a0fc-5ff3ccbd51d8)
